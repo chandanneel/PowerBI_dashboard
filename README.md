@@ -1,2 +1,2 @@
 # PowerBI_dashboard
-E commerce_dashboard_project
+This is E commerce end to end project
